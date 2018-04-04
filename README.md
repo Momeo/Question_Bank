@@ -11,9 +11,9 @@
 
 ## project unfinished yet
 
-'''python
+```python
 http://www.cnblogs.com/huanyi0723/p/8470866.html
 https://www.zhihu.com/question/59683332/answer/281642849
 https://visualgo.net/en
 
-'''
+```
