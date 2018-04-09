@@ -69,3 +69,5 @@ sigmoid 函数的应用有哪些，为什么？
 语音识别模型有哪些
 
 如何识别一个人在喝酒，需要几个模型
+
+logistic regression 区别 logicial regression
