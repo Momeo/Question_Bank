@@ -1,0 +1,76 @@
+BP推导
+
+卷积计算方法
+
+卷积为什么要翻转？物理意义？
+
+DQN的原理以及tricks
+
+RNN的原理以及tricks
+
+GAN的原理以及tricks
+
+DL的原理、过程、tricks()
+
+Batch normalization的实现方式和物理意义
+
+手推RNN和LSTM结构
+
+LSTM中每个gate的作用是什么，为什么跟RNN比起来，LSTM可以防止梯度消失
+
+讲一下pooling的作用， 为什么max pooling要更常用？哪些情况下，average pooling比max pooling更合适？
+
+梯度消失和梯度爆炸的原因是什么？ 有哪些解决方法？
+
+CNN和RNN的梯度消失是一样的吗？
+
+有哪些防止过拟合的方法？
+
+讲一下激活函数sigmoid，tanh，relu. 各自的优点和适用场景？
+
+relu的负半轴导数都是0，这部分产生的梯度消失怎么办？
+
+batch size对收敛速度的影响。
+
+CNN做卷积运算的复杂度。如果一个CNN网络的输入channel数目和卷积核数目都减半，总的计算量变为原来的多少？
+
+讲一下AlexNet的具体结构，每层的作用
+
+讲一下你怎么理解dropout，分别从bagging和正则化的角度
+
+data augmentation有哪些技巧？
+
+讲一下你了解的优化方法，sgd, momentum, rmsprop, adam的区别和联系
+
+如果训练的神经网络不收敛，可能有哪些原因？
+
+说一下你理解的卷积核， 1x1的卷积核有什么作用？ 
+
+选一个计算机视觉、深度学习、机器学习的子领域，讲一下这个领域的发展脉络，重点讲出各种新方法提出时的motivation，以及谈谈这个领域以后会怎么发展。
+
+讲一下你最近看的印象比较深的paper
+
+讲一下经典的几种网络结构， AlexNet， VGG，GoogleNet， Residual Net等等，它们各自最重要的contribution 
+
+bp算法介绍，梯度弥散问题。
+
+svm介绍，优缺点是什么，lr介绍，区别是什么
+
+logistic regression与线性回归的区别
+
+如果要预测房价，用什么模型
+
+如果要预测房价，并且知道一个房间的房型信息，如何构建模型
+
+sigmoid 函数的应用有哪些，为什么？
+
+列举十种常用的神经网络模型
+
+语音识别模型有哪些
+
+如何识别一个人在喝酒，需要几个模型
+
+logistic regression 区别 logicial regression
+
+data augmentation
+
