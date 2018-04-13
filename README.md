@@ -7,9 +7,7 @@
 * Reinforcement Learning
 * ......
 
-## After collecting enough questions, I will write a program to pose random questions.
-
-## project unfinished yet
+## Run and Answer.ipynb will pose random questions.
 
 ```python
 http://www.cnblogs.com/huanyi0723/p/8470866.html
