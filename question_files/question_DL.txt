@@ -74,3 +74,5 @@ logistic regression 区别 logicial regression
 
 data augmentation
 
+GAN的loss函数为什么是这种形式？
+
